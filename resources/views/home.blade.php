@@ -98,7 +98,7 @@
             <div class="col-lg-9 col-md-8 col-12 ">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-12">
-                        <h2>Our Locations in mumbai</h2>
+                        <h2>Our Locations in mumbai pune delhi</h2>
                     </div>
                 </div>
                 <div class="row">
